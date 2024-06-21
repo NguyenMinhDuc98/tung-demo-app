@@ -1,0 +1,12 @@
+.container {
+  padding: 32px;
+  background-color: rgb(237, 235, 235);
+  height: 91vh;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 32px;
+  font-size: 20px;
+  font-weight: 600;
+}
